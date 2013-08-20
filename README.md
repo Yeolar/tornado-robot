@@ -1,4 +1,4 @@
 tornado-robot
 =============
 
-A url/db fetch robot
+Torobot is a crawler framework based on Tornado.
